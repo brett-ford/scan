@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+.vscode
+console_output.rtf
+credentials.json
+qr_code.py
+quickstart.py
+schedule.py
+setup.py
+token.pickle
